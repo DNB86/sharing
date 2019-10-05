@@ -1,3 +1,3 @@
-# Sharing : 
+# Sharing corner: 
 
-Doublet removal using scrublet && ScanPy based pipeline && batch correction using BBKNN
+Doublet removal using scrublet & ScanPy based pipeline && batch correction using BBKNN
